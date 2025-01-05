@@ -11,6 +11,11 @@ This repository contains the codes which is taught to me in coding training
 4. _Print the exponent of the number without using builtin functions._
 5. _Print the factorial of n numbers._
 6. _Print the odd numbers in the given range._
+7. _Check whether the number is perfect square or not._
+8. _Print the fibonacci series._
+9. _Print the factors of given number and count the number of factors and sum of factors._
+10. _Find the kth largest and smallest factor of given number._
+11. _Find the given two numbers is amicable pair or not._
    
 **Conditional Statement**
 
