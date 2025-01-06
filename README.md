@@ -17,6 +17,7 @@ This repository contains the codes which is taught to me in coding training
 10. _Find the kth largest and smallest factor of given number._
 11. _Find the given two numbers is amicable pair or not._
 12. _Check whether the given number is prime or not and print the prime numbers in a range._
+13. |**_Patterns.java contains the program to print 10 different patterns_**|
    
 **Conditional Statement**
 
